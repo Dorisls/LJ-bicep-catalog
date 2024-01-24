@@ -1,7 +1,7 @@
 name: LinkedTemplate
 summary: This is testing linked Bicep modules in the Bicep runner
 description: Deploys a linked template for an app-configuration and a storage account
-templatePath: main.bicep
+templatePath: main.BicepCatalog
 parameters:
 - id: "appConfigName"
   name: "App Config Name"
